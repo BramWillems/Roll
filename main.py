@@ -1,1 +1,1 @@
-print(1)
+print('Hi! Welcome to the Roll optimizer!')
